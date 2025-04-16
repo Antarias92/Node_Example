@@ -12,6 +12,15 @@
   "description": "",
   "dependencies": {
     "bootstrap": "^5.3.5",
+    "ejs": "^3.1.10",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-inject": "^5.0.5",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.5.0",
+    "nodemon": "^3.1.9",
+    "wiredep": "^4.0.0"
   }
 }
